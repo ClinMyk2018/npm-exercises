@@ -7,5 +7,5 @@ sayHello();
 console.log(sayHello());
 
 $('#howdy').css({
-    color: 'red'
+    color: 'blue'
 });
