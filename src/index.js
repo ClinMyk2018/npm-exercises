@@ -5,3 +5,7 @@ const sayHello = () => ('hello');
 
 sayHello();
 console.log(sayHello());
+
+$('#howdy').css({
+    color: 'red'
+});
